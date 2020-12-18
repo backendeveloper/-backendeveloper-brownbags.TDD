@@ -14,24 +14,16 @@ As a journey service, i should list all journeys
 * [FluentAssertions] - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests
 * [Docker] - We help developers and development teams build and ship apps
 * [Resharper] - The Visual Studio Extension for .NET Developers
-
-[.NET 5.0]: <https://devblogs.microsoft.com/dotnet/introducing-net-5/>
-   [xunit]: <https://xunit.net/>
-   [moq]: <https://github.com/moq/moq4>
-   [FluentAssertions]: <https://fluentassertions.com/>
-   [Docker]: <https://www.docker.com/>
-   [Resharper]: <https://www.jetbrains.com/resharper/>
-   [d1]: <https://dotnet.microsoft.com/download>
-   [d2]: <https://code.visualstudio.com/>
-   [d3]: <https://www.docker.com/products/docker-desktop>
    
 # Installation
 
 * .NET 5.0 [Download][D1]
-* Any Ide (Optional: Visual Studio Code) [Download][D2]
+* Any IDE
 * Any SQL Server Database
 
 ### Optional Installation
+* Resharper (Fast Refactoring)  [Download][D4]
+* Visual Studio Code [Download][D2]
 * Local SQL Server Database Docker:
     * Docker for Windows [Download][d3]
 
@@ -80,3 +72,14 @@ and then running local DB!
 ----
 License
 MIT
+
+[.NET 5.0]: <https://devblogs.microsoft.com/dotnet/introducing-net-5/>
+[xunit]: <https://xunit.net/>
+[moq]: <https://github.com/moq/moq4>
+[FluentAssertions]: <https://fluentassertions.com/>
+[Docker]: <https://www.docker.com/>
+[Resharper]: <https://www.jetbrains.com/resharper/>
+[d1]: <https://dotnet.microsoft.com/download>
+[d2]: <https://code.visualstudio.com/>
+[d3]: <https://www.docker.com/products/docker-desktop>
+[d4]: <https://www.jetbrains.com/resharper/download/#section=offline-installer>
